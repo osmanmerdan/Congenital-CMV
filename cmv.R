@@ -446,10 +446,4 @@ setdiff(Ala,Ile)
 print("Samples neither mutation is detected")
 setdiff(data$SampleID, c(Ala,Ile))
 
-
-# ===================================================== #
-## 12- Plotting Genotype  ####
-# ===================================================== #
-
-
  
